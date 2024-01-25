@@ -1,0 +1,9 @@
+# all the good shit is here:
+# https://mcforge.readthedocs.io/en/latest/gettingstarted/#building-and-testing-your-mod
+
+gradlew genEclipseRuns
+gradlew genIntellijRuns
+gradlew runServer
+gradlew runClient
+gradlew setupDecompWorkspace
+gradlew build
